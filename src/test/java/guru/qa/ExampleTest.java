@@ -9,8 +9,8 @@ public class ExampleTest {
     @Test
     void firstTest() {
 
-        int a = 0 + (int) (Math.random() * 100);
-        int b = 101 + (int) (Math.random() * 200);
+        int a = 0 + (int) (Math.random() * 200);
+        int b = 201 + (int) (Math.random() * 300);
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
